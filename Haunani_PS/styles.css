@@ -1,0 +1,26 @@
+body{
+	background-color: yellow;	
+}
+div{
+	background-color: orange;
+	border: 2px solid black;
+}
+
+#store-name{
+	background-color: limegreen;
+}
+
+.individual-pet{
+	background-color: yellow;
+	border: 2px solid blue;
+	width:auto;
+	font-size: 50px;
+
+}
+
+.PetPic {
+	height: 250px;
+	width: 250px;
+	margin-left: 45%;
+	margin-right: auto;
+}
